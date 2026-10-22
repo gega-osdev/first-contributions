@@ -39,6 +39,7 @@
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
 - [Hrithic Krishnan L](https://github.com/hk-crypto)
 - [Mayank Gaur](https://github.com/Mayank-CS50)
+- [Gega Baghaturia](https://github.com/gega-osdev) "Hello! my first contribution, many more to come through my journey in life"
 - [Radhika Kandalkar](https://github.com/radhika817)
 -[Udit Shrivastava](https://github.com/Udit-Shrivastava01)
 -[Om Bhadri](https://github.com/ombhadri)
